@@ -63,7 +63,7 @@ config t
 	 description IPCCTV
    Int Vlan 100
      no shutdown
-	 ip add 10._.100.4 255.255.255.0
+	 ip add 10.32.100.4 255.255.255.0
 	 description VOICEVLAN
 	 
 !DHCP: DYNAMIC HOST CONFIGURATION PROTOCOL
